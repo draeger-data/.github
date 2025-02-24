@@ -8,31 +8,30 @@ projects: ["draeger-data/2"]
 ---
 
 ## 📝 Description
-A brief description of the issue, including its purpose and context within the project.
-Example:
+> What is the purpose of this issue?
 
-> Describe the purpose of this issue, outlining the specific feature, task, or bug. Provide background information if relevant, including links to documentation or references to the arc42-based architecture documentation in the repository [ddp-architecture](https://github.com/draeger-data/ddp-architecture/blob/main/docs/01_introduction-and-goals/introduction.md).
+[//]: # (Sample 1: We need to implement a real-time analytics dashboard that displays user activity, e.g. active sessions, average session length pulled from our existing data sources.)
+[//]: # (Sample 2: As a Product Owner I want metrics of all workloads to be collected so that I can charge customers on per-usage level.)
 
+...
+ 
 ## 🎯 Acceptance Criteria
-The criteria that must be met for the issue to be considered complete.
-Example:
+> The criteria that must be met for the issue to be considered complete.
 
-- Criterion 1 (e.g., "User can view analytics data in real-time.")
-- Criterion 2 (e.g., "Data is updated within 5 seconds of changes.")
-- Criterion 3 (e.g., "UI matches design specifications.")
+[//]: # (Important: Keep the bullet formatting with "-" because this block is electronically transferred to a release report after merge.)
+[//]: # (Sample: - User can view analytics data in real-time.)
+
+- 
+- 
+- 
 
 ## ✅ Tasks
-List the specific tasks required to complete the issue.
+> Required tasks to complete the issue. In case its a feature with sub-issues, remove this block.
 
-Example:
+[//]: # (Use this task list to track the required work to implement this issue.)
+[//]: # (Remove this block, if the issue is a Feature. Features are usually implemented by the related sub-issues.)
+[//]: # (Sample: - [ ] Create analytics report.)
 
-- [ ] Task 1 (e.g., "Develop API endpoint for real-time data.")
-- [ ] Task 2 (e.g., "Implement front-end components to display analytics.")
-- [ ] Task 3 (e.g., "Write tests for data processing and display.")
-
-## 🔗 Related Issues
-(Optional) Reference any related issues or pull requests that provide context or dependencies for this issue.
-Example:
-
-- #102 Dashboard Data Integration
-- #99 Backend Data Processing
+- [ ] 
+- [ ] 
+- [ ] 
